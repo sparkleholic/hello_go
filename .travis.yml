@@ -1,0 +1,7 @@
+launguage: go
+rvm:
+ - 1.3.3
+install: 
+ - make get-deps
+ - go get github.com/mrb/hob
+
